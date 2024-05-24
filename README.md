@@ -2,7 +2,7 @@
 Employs Python to examine spatial patterns and relationships between health characteristics, substance abuse, and healthcare access in Stockport, UK
 **The GitHub Repository contains:**
 
-The .pynb project file.
+**The .pynb project file. (main)**
 
 3 CSV files containing information on Stockport Hospital Attendances and Admissions, Stockport Smoking and Asthma Prevalence, and Stockport Local Health Characteristics.
 
