@@ -1,5 +1,8 @@
 # GEOG5990M_Project
 Employs Python to examine spatial patterns and relationships between health characteristics, substance abuse, and healthcare access in Stockport, UK
+___
+Packages used: pandas, numpy, matplotlib, seaborn, scipy.stats, geopandas, folium, pysal, libpysal, esda.getisord, matplotlib_scalebar
+___
 
 
 **The GitHub Repository contains:**
