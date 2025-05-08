@@ -8,6 +8,9 @@ ___
 **The GitHub Repository contains:**
 
 **The .pynb project file. (main)**
+Please check the 'Project.ipynb' file for full reproducible code. The code has extensive notes.
+![image](https://github.com/user-attachments/assets/2bace557-8018-4910-bc6e-9289b49c757a)
+
 
 3 CSV files containing information on Stockport Hospital Attendances and Admissions, Stockport Smoking and Asthma Prevalence, and Stockport Local Health Characteristics.
 
