@@ -12,12 +12,12 @@ Please check the 'Project.ipynb' file for full reproducible code. The code has e
 ![image](https://github.com/user-attachments/assets/2bace557-8018-4910-bc6e-9289b49c757a)
 
 
-3 CSV files containing information on Stockport Hospital Attendances and Admissions, Stockport Smoking and Asthma Prevalence, and Stockport Local Health Characteristics.
+**3 CSV files** containing information on Stockport Hospital Attendances and Admissions, Stockport Smoking and Asthma Prevalence, and Stockport Local Health Characteristics.
 
 
-1 html (pynb to HTML) file for easier accessibility
+**1 HTML (pynb to HTML)** file for easier accessibility
 
-1 Stockport shapefile (with supported files). The original shapefile was of all of the UK which was >600 mb. Due to data constraints as both GitHub as well as Minerva (official submission portal) allows file size upto 100 mb, Stockport boundaries were extracted with the help of a GIS software.
+**1 Stockport shapefile** (with supported files). The original shapefile for all of the UK was >600 MB. Due to data constraints, both GitHub and Minerva (the official submission portal) allow file sizes up to 100 MB. Stockport boundaries were extracted with the help of GIS software.
 
 Link for the original UK Shapefile: https://statistics.ukdataservice.ac.uk/dataset/2011-census-geography-boundaries-lower-layer-super-output-areas-and-data-zones
 
