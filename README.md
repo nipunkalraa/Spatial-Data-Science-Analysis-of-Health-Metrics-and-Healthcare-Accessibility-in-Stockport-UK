@@ -8,7 +8,7 @@ ___
 **The GitHub Repository contains:**
 
 **The .pynb project file. (main)**
-Please check the 'Project.ipynb' file for full reproducible code. The code has extensive notes.
+Please check the 'Project.ipynb' file for full reproducible code. The code has extensive markdown to tell what each line of code does.
 ![image](https://github.com/user-attachments/assets/2bace557-8018-4910-bc6e-9289b49c757a)
 
 
